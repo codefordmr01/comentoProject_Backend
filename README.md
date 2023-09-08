@@ -20,11 +20,12 @@
 <div align=center>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 </div>
-<br>
+<hr>
 <div align=center>
 	<p><h3> 현재 겪고있는 문제</h3>
 		과제를 진행했던 PC의 문제로 PC 실행 불가
 </div>
+<hr>
 <div>
 	<p>
 		<h3> 1주차 과제</h3>
@@ -35,6 +36,7 @@
                 - 전부 설정 완료 후 서버 실행시켰을 때 404 에러로 실행불가 → 파일 경로 변경 / Tomcat 삭제 후 재실행 / Tomcat 주소 변경 / Eclipse 종료 및 캐시 삭제 후 재실행 했으나 여전히 404 오류 발견<br>
 	</p>
 </div>
+<hr>
 <div>
 	<p>
 		<h3> 2주차 과제</h3>
