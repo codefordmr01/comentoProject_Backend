@@ -1,4 +1,4 @@
-<div align=center>
+![image](https://github.com/codefordmr01/comentoProject_Backend/assets/114786996/df1ac3a5-e782-4db6-b53d-6e4bf93c457d)<div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=Comento%20Project%20-%20Backend&fontSize=50" />	
 </div>
 <div align=center>
@@ -51,7 +51,7 @@
 		- 간단한 Restful API 구현 - Spring, RestController를 이용 <br>
 		<h4> 진행하며 어려웠던 점</h4>
 		- 새로 생성한 settingweb_boot 프로젝트 Tomcat 서버 추가 불가능 → 프로젝트 재생성 후 pom.xml 파일 및 application.properties 직접 수정하여 해결 <br>
-		- 프로젝트 실행 후 localhost:8031/test로 test 화면 출력 불가능 <br>
+		- 프로젝트 실행 후 localhost:8031/test로 test 화면 출력 불가능 & localhost:8021/sqlyearStatistic?year=20 및 localhost:8031/sqlyearStatistic?year=20 출력 불가능 → Tomcat 삭제 후 재실행 해봤으나 실행 불가능 <br>
 		![3주차과제_localhost에러](https://github.com/codefordmr01/comentoProject_Backend/assets/114786996/65c2dc00-e20e-4a5a-b654-7c52265b3322)
 		<br>
 	</p>
