@@ -21,11 +21,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 </div>
 <hr>
-<div align=center>
-	<p><h3> 현재 겪고있는 문제</h3>
-		과제를 진행했던 PC의 문제로 PC 실행 불가
-</div>
-<hr>
 <div>
 	<p>
 		<h3> 1주차 과제</h3>
@@ -45,6 +40,7 @@
 		- 조사 및 문서 작성이라 크게 어렵고 해결 불가능한 점은 없었지만, API 문서 작성할 때 올바르게 작성하는지 혼자서 파악하기 어려웠음.<br>
 	</p>
 </div>
+<hr>
 <div>
 	<p>
 		<h3> 3주차 과제</h3>
