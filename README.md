@@ -45,3 +45,13 @@
 		- 조사 및 문서 작성이라 크게 어렵고 해결 불가능한 점은 없었지만, API 문서 작성할 때 올바르게 작성하는지 혼자서 파악하기 어려웠음.<br>
 	</p>
 </div>
+<div>
+	<p>
+		<h3> 3주차 과제</h3>
+		- 간단한 Restful API 구현 - Spring, RestController를 이용 <br>
+		<h4> 진행하며 어려웠던 점</h4>
+		- 새로 생성한 settingweb_boot 프로젝트 Tomcat 서버 추가 불가능 → 프로젝트 재생성 후 pom.xml 파일 및 application.properties 직접 수정하여 해결 <br>
+		- 프로젝트 실행 후 localhost:8031/test로 test 화면 출력 불가능
+		
+	</p>
+</div>
